@@ -98,7 +98,6 @@ fun LoginScreen() {
         ) {
             SocialIcon(iconRes = R.drawable.google)
             SocialIcon(iconRes = R.drawable.facebook)
-            // Assuming 'social' refers to the X logo as provided in drawables
             SocialIcon(iconRes = R.drawable.x)
         }
     }
